@@ -1,5 +1,5 @@
 # frontend
-Collection of frontend projects
+Collection of frontend projects for cool stuff
 
 ## Learning
 - FIGMA
